@@ -1,4 +1,4 @@
-# jsfoundations
+# Foundations---Fundamentals-Part-2
 Foundations
 FUNDAMENTALS PART 1 - Activities complete, but I utilized the in browser interactive examples / codepen.io so you'll need to take my word for it.
 
